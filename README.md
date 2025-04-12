@@ -1,0 +1,1 @@
+Aplicación móvil desarrollada con React Native y JavaScript, lista para ejecutarse con Expo Go como app nativa. Permite interactuar con la API para login y gestión de usuarios. Estructurada en componentes y pantallas, optimizada para dispositivos móviles.
